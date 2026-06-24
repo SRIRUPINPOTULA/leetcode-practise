@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/srirupin/Documents/GitHub/leetcode-practise/graphs",
+      "program": "/Users/srirupin/Documents/GitHub/leetcode-practise/graphs/build/Debug/outDebug"
+    }
+  ]
+}
