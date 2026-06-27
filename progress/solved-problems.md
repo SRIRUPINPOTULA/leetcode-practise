@@ -1,1 +1,3 @@
 3243. Shortest Distance After Road Addition Queries I
+2779. Maximum Beauty of an Array After Applying Operation
+1358. Number of Substrings Containing All Three Characters
