@@ -1,0 +1,52 @@
+<!-- 670. Maximum Swap
+You are given an integer num. You can swap two digits at most once to get the maximum valued number.
+
+Return the maximum valued number you can get.
+ -->
+
+class Solution {
+public:
+    int maximumSwap(int num) {
+        int cpNum = num;
+        string n = "";
+        while(num > 0)
+        {
+            int digit = num%10;
+            n += to_string(digit);
+            // cout << digit << endl;
+            num /= 10;
+        }
+
+        reverse(n.begin(), n.end());
+
+        for(int i=0; i<n.size(); i++)
+        {
+            char ch1 = n[i];
+            bool flag = false;
+            int index = -1;
+            for(int j=i+1; j<n.size(); j++)
+            {
+                if(n[i] - '0' < n[j] - '0')
+                {
+                    if(index == -1)
+                    {
+                        index = j;
+                    }
+                    else if(index != -1 && n[index]-'0' <= n[j]-'0')
+                    {
+                        index = j;
+                    }
+                    
+                    flag = true;
+                }
+            }
+            if(flag)
+            {
+                swap(n[i], n[index]);
+                break;
+            }
+        }
+        
+        return stoi(n);
+    }
+};
