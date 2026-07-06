@@ -6,3 +6,4 @@
 2929. Distribute Candies Among Children II
 670. Maximum Swap
 988. Smallest String Starting From Leaf
+1277. Count Square Submatrices with All Ones
