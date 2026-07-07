@@ -7,3 +7,4 @@
 670. Maximum Swap
 988. Smallest String Starting From Leaf
 1277. Count Square Submatrices with All Ones
+24. Swap Nodes in Pairs
