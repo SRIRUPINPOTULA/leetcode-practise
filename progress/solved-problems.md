@@ -8,3 +8,4 @@
 988. Smallest String Starting From Leaf
 1277. Count Square Submatrices with All Ones
 24. Swap Nodes in Pairs
+2516. Take K of Each Character From Left and Right
