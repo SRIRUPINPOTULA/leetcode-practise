@@ -11,3 +11,4 @@
 2516. Take K of Each Character From Left and Right
 2958. Length of Longest Subarray With at Most K Frequency
 1557. Minimum Number of Vertices to Reach All Nodes
+2101. Detonate the Maximum Bombs
