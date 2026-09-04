@@ -7,3 +7,7 @@
 - [535. Encode and Decode TinyURL](design/535-encode-and-decode-tinyurl.cpp) — Medium — Hash Table, String, Design, Hash Function
 - [456. 132 Pattern](stack/456-132-pattern.cpp) — Medium — Array, Binary Search, Stack, Monotonic Stack, Ordered Set
 - [187. Repeated DNA Sequences](hash-table/187-repeated-dna-sequences.cpp) — Medium — Hash Table, String, Bit Manipulation, Sliding Window, Hash Function
+- [173. Binary Search Tree Iterator](binary-search-tree/173-binary-search-tree-iterator.cpp) — Medium — Stack, Tree, Design, Binary Search Tree, Binary Tree, Iterator
+- [2300. Successful Pairs of Spells and Potions](binary-search/2300-successful-pairs-of-spells-and-potions.cpp) — Medium — Array, Two Pointers, Binary Search, Sorting
+- [962. Maximum Width Ramp](stack/962-maximum-width-ramp.cpp) — Medium — Array, Stack, Monotonic Stack
+- [2285. Maximum Total Importance of Roads](greedy/2285-maximum-total-importance-of-roads.cpp) — Medium — Graph, Greedy, Sorting, Heap (Priority Queue)
