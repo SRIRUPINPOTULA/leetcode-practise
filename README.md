@@ -11,3 +11,7 @@
 - [2300. Successful Pairs of Spells and Potions](binary-search/2300-successful-pairs-of-spells-and-potions.cpp) — Medium — Array, Two Pointers, Binary Search, Sorting
 - [962. Maximum Width Ramp](stack/962-maximum-width-ramp.cpp) — Medium — Array, Stack, Monotonic Stack
 - [2285. Maximum Total Importance of Roads](greedy/2285-maximum-total-importance-of-roads.cpp) — Medium — Graph, Greedy, Sorting, Heap (Priority Queue)
+- [2257. Count Unguarded Cells in the Grid](arrays/2257-count-unguarded-cells-in-the-grid.cpp) — Medium — Array, Matrix, Simulation
+- [4043. Count Rotations With Exactly K Equal Adjacent Pairs](strings/4043-count-rotations-with-exactly-k-equal-adjacent-pairs.cpp) — Easy — String, Counting
+- [4044. Count Good Cyclic Rotations](sliding-window/4044-count-good-cyclic-rotations.cpp) — Medium — Array, Sliding Window, Prefix Sum
+- [4045. Count Robot Groups](stack/4045-count-robot-groups.cpp) — Medium — Array, Stack, Monotonic Stack
