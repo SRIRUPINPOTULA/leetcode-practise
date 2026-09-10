@@ -15,3 +15,4 @@
 - [4043. Count Rotations With Exactly K Equal Adjacent Pairs](strings/4043-count-rotations-with-exactly-k-equal-adjacent-pairs.cpp) — Easy — String, Counting
 - [4044. Count Good Cyclic Rotations](sliding-window/4044-count-good-cyclic-rotations.cpp) — Medium — Array, Sliding Window, Prefix Sum
 - [4045. Count Robot Groups](stack/4045-count-robot-groups.cpp) — Medium — Array, Stack, Monotonic Stack
+- [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](sliding-window/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp) — Medium — Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue
