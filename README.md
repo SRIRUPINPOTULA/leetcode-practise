@@ -16,3 +16,6 @@
 - [4044. Count Good Cyclic Rotations](sliding-window/4044-count-good-cyclic-rotations.cpp) — Medium — Array, Sliding Window, Prefix Sum
 - [4045. Count Robot Groups](stack/4045-count-robot-groups.cpp) — Medium — Array, Stack, Monotonic Stack
 - [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](sliding-window/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp) — Medium — Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue
+- [1673. Find the Most Competitive Subsequence](stack/1673-find-the-most-competitive-subsequence.cpp) — Medium — Array, Stack, Greedy, Monotonic Stack
+- [209. Minimum Size Subarray Sum](sliding-window/209-minimum-size-subarray-sum.cpp) — Medium — Array, Binary Search, Sliding Window, Prefix Sum
+- [1019. Next Greater Node In Linked List](stack/1019-next-greater-node-in-linked-list.cpp) — Medium — Linked List, Stack, Monotonic Stack, Array
