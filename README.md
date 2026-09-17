@@ -19,3 +19,5 @@
 - [1673. Find the Most Competitive Subsequence](stack/1673-find-the-most-competitive-subsequence.cpp) — Medium — Array, Stack, Greedy, Monotonic Stack
 - [209. Minimum Size Subarray Sum](sliding-window/209-minimum-size-subarray-sum.cpp) — Medium — Array, Binary Search, Sliding Window, Prefix Sum
 - [1019. Next Greater Node In Linked List](stack/1019-next-greater-node-in-linked-list.cpp) — Medium — Linked List, Stack, Monotonic Stack, Array
+- [523. Continuous Subarray Sum](hash-table/523-continuous-subarray-sum.cpp) — Medium — Array, Hash Table, Math, Prefix Sum
+- [974. Subarray Sums Divisible by K](hash-table/974-subarray-sums-divisible-by-k.cpp) — Medium — Array, Hash Table, Prefix Sum
