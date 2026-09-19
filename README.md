@@ -21,3 +21,4 @@
 - [1019. Next Greater Node In Linked List](stack/1019-next-greater-node-in-linked-list.cpp) — Medium — Linked List, Stack, Monotonic Stack, Array
 - [523. Continuous Subarray Sum](hash-table/523-continuous-subarray-sum.cpp) — Medium — Array, Hash Table, Math, Prefix Sum
 - [974. Subarray Sums Divisible by K](hash-table/974-subarray-sums-divisible-by-k.cpp) — Medium — Array, Hash Table, Prefix Sum
+- [1642. Furthest Building You Can Reach](heaps/1642-furthest-building-you-can-reach.cpp) — Medium — Array, Dynamic Programming, Greedy, Heap (Priority Queue), BFS
