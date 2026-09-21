@@ -22,3 +22,6 @@
 - [523. Continuous Subarray Sum](hash-table/523-continuous-subarray-sum.cpp) — Medium — Array, Hash Table, Math, Prefix Sum
 - [974. Subarray Sums Divisible by K](hash-table/974-subarray-sums-divisible-by-k.cpp) — Medium — Array, Hash Table, Prefix Sum
 - [1642. Furthest Building You Can Reach](heaps/1642-furthest-building-you-can-reach.cpp) — Medium — Array, Dynamic Programming, Greedy, Heap (Priority Queue), BFS
+- [1396. Design Underground System](design/1396-design-underground-system.cpp) — Medium — Hash Table, String, Design
+- [430. Flatten a Multilevel Doubly Linked List](linked-list/430-flatten-a-multilevel-doubly-linked-list.cpp) — Medium — Linked List, Depth-First Search, Recursion, Stack
+- [611. Valid Triangle Number](two-pointers/611-valid-triangle-number.cpp) — Medium — Array, Two Pointers, Binary Search, Sorting, Greedy
