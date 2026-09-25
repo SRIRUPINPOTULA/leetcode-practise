@@ -26,3 +26,4 @@
 - [430. Flatten a Multilevel Doubly Linked List](linked-list/430-flatten-a-multilevel-doubly-linked-list.cpp) — Medium — Linked List, Depth-First Search, Recursion, Stack
 - [611. Valid Triangle Number](two-pointers/611-valid-triangle-number.cpp) — Medium — Array, Two Pointers, Binary Search, Sorting, Greedy
 - [4057. Number of Intersecting Interval Pairs II](intervals/4057-number-of-intersecting-interval-pairs-ii.cpp) — Medium — Array, Sorting, Interval
+- [3737. Count Subarrays With Majority Element I](sliding-window/3737-count-subarrays-with-majority-element-i.cpp) — Medium — Array, Hash Table, Sliding Window, Counting
