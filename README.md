@@ -28,3 +28,5 @@
 - [4057. Number of Intersecting Interval Pairs II](intervals/4057-number-of-intersecting-interval-pairs-ii.cpp) — Medium — Array, Sorting, Interval
 - [3737. Count Subarrays With Majority Element I](sliding-window/3737-count-subarrays-with-majority-element-i.cpp) — Medium — Array, Hash Table, Sliding Window, Counting
 - [4066. Maximum Equal Adjacent Pairs After at Most One Replacement](arrays/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement.cpp) — Medium — Array, Hash Table, Counting, Greedy
+- [340. Longest Substring with At Most K Distinct Characters](sliding-window/340-longest-substring-with-at-most-k-distinct-characters.cpp) — Medium — Hash Table, String, Sliding Window
+- [227. Basic Calculator II](stack/227-basic-calculator-ii.cpp) — Medium — Math, String, Stack
