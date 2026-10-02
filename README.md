@@ -30,3 +30,8 @@
 - [4066. Maximum Equal Adjacent Pairs After at Most One Replacement](arrays/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement.cpp) — Medium — Array, Hash Table, Counting, Greedy
 - [340. Longest Substring with At Most K Distinct Characters](sliding-window/340-longest-substring-with-at-most-k-distinct-characters.cpp) — Medium — Hash Table, String, Sliding Window
 - [227. Basic Calculator II](stack/227-basic-calculator-ii.cpp) — Medium — Math, String, Stack
+- [694. Number of Distinct Islands](graphs/694-number-of-distinct-islands.cpp) — Medium — Array, Hash Table, Depth-First Search, Breadth-First Search, Union Find, Matrix
+- [845. Longest Mountain in Array](arrays/845-longest-mountain-in-array.cpp) — Medium — Array, Two Pointers, Enumeration
+- [223. Rectangle Area](math/223-rectangle-area.cpp) — Medium — Math, Geometry
+- [827. Making A Large Island](graphs/827-making-a-large-island.cpp) — Hard — Array, Depth-First Search, Breadth-First Search, Union Find, Matrix
+- [415. Add Strings](strings/415-add-strings.cpp) — Easy — Math, String, Simulation
