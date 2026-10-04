@@ -35,3 +35,12 @@
 - [223. Rectangle Area](math/223-rectangle-area.cpp) — Medium — Math, Geometry
 - [827. Making A Large Island](graphs/827-making-a-large-island.cpp) — Hard — Array, Depth-First Search, Breadth-First Search, Union Find, Matrix
 - [415. Add Strings](strings/415-add-strings.cpp) — Easy — Math, String, Simulation
+- [1010. Pairs of Songs With Total Durations Divisible by 60](hash-table/1010-pairs-of-songs-with-total-durations-divisible-by-60.cpp) — Medium — Array, Hash Table, Counting
+- [696. Count Binary Substrings](strings/696-count-binary-substrings.cpp) — Easy — String, Two Pointers
+- [593. Valid Square](math/593-valid-square.cpp) — Medium — Math, Geometry
+- [2640. Find the Score of All Prefixes of an Array](arrays/2640-find-the-score-of-all-prefixes-of-an-array.cpp) — Medium — Array, Prefix Sum
+- [475. Heaters](binary-search/475-heaters.cpp) — Medium — Array, Two Pointers, Binary Search, Sorting
+- [290. Word Pattern](hash-table/290-word-pattern.cpp) — Easy — Hash Table, String
+- [291. Word Pattern II](backtracking/291-word-pattern-ii.cpp) — Medium — Hash Table, String, Backtracking, Trie
+- [941. Valid Mountain Array](arrays/941-valid-mountain-array.cpp) — Easy — Array, Two Pointers
+- [4070. Minimum Rotations to Dial a Number I](math/4070-minimum-rotations-to-dial-a-number-i.cpp) — Easy — String, Math, Simulation
