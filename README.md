@@ -44,3 +44,16 @@
 - [291. Word Pattern II](backtracking/291-word-pattern-ii.cpp) — Medium — Hash Table, String, Backtracking, Trie
 - [941. Valid Mountain Array](arrays/941-valid-mountain-array.cpp) — Easy — Array, Two Pointers
 - [4070. Minimum Rotations to Dial a Number I](math/4070-minimum-rotations-to-dial-a-number-i.cpp) — Easy — String, Math, Simulation
+- [1190. Reverse Substrings Between Each Pair of Parentheses](stack/1190-reverse-substrings-between-each-pair-of-parentheses.cpp) — Medium — String, Stack, Recursion
+- [348. Design Tic-Tac-Toe](design/348-design-tic-tac-toe.cpp) — Medium — Array, Hash Table, Design, Matrix
+- [673. Number of Longest Increasing Subsequence](dynamic-programming/673-number-of-longest-increasing-subsequence.cpp) — Medium — Array, Dynamic Programming, Segment Tree, Binary Indexed Tree
+- [96. Unique Binary Search Trees](dynamic-programming/96-unique-binary-search-trees.cpp) — Medium — Dynamic Programming, Tree, Binary Search Tree, Math, Catalan Number
+- [1209. Remove All Adjacent Duplicates in String II](stack/1209-remove-all-adjacent-duplicates-in-string-ii.cpp) — Medium — String, Stack
+- [2456. Most Popular Video Creator](hash-table/2456-most-popular-video-creator.cpp) — Medium — Array, Hash Table, Sorting
+- [1146. Snapshot Array](design/1146-snapshot-array.cpp) — Medium — Array, Hash Table, Design, Binary Search
+- [12. Integer to Roman](math/12-integer-to-roman.cpp) — Medium — Hash Table, Math, String
+- [1245. Tree Diameter](trees/1245-tree-diameter.cpp) — Medium — Tree, Depth-First Search, Breadth-First Search, Graph
+- [3408. Design Task Manager](design/3408-design-task-manager.cpp) — Medium — Hash Table, Design, Heap (Priority Queue), Set
+- [311. Sparse Matrix Multiplication](arrays/311-sparse-matrix-multiplication.cpp) — Medium — Array, Hash Table, Matrix
+- [159. Longest Substring with At Most Two Distinct Characters](sliding-window/159-longest-substring-with-at-most-two-distinct-characters.cpp) — Medium — Hash Table, String, Sliding Window
+- [2235. Add Two Integers](math/2235-add-two-integers.cpp) — Easy — Math
