@@ -57,3 +57,5 @@
 - [311. Sparse Matrix Multiplication](arrays/311-sparse-matrix-multiplication.cpp) — Medium — Array, Hash Table, Matrix
 - [159. Longest Substring with At Most Two Distinct Characters](sliding-window/159-longest-substring-with-at-most-two-distinct-characters.cpp) — Medium — Hash Table, String, Sliding Window
 - [2235. Add Two Integers](math/2235-add-two-integers.cpp) — Easy — Math
+- [221. Maximal Square](dynamic-programming/221-maximal-square.cpp) — Medium — Array, Dynamic Programming, Matrix
+- [3071. Minimum Operations to Write the Letter Y on a Grid](arrays/3071-minimum-operations-to-write-the-letter-y-on-a-grid.cpp) — Medium — Array, Matrix, Enumeration
